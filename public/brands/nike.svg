@@ -1,0 +1,28 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 110.458 102.575" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Nike" filter="url(#filter0_d_0_174)">
+<path d="M14.5 26.5C14.5 17.6634 21.6634 10.5 30.5 10.5H79.958C88.7945 10.5 95.958 17.6634 95.958 26.5V68.0749C95.958 76.9115 88.7945 84.0749 79.958 84.0749H30.5C21.6634 84.0749 14.5 76.9115 14.5 68.0749V26.5Z" fill="var(--fill-0, white)"/>
+<path d="M79.958 10.25C88.9326 10.25 96.208 17.5254 96.208 26.5V68.0752C96.2079 77.0497 88.9325 84.3252 79.958 84.3252H30.5C21.5255 84.3252 14.2501 77.0497 14.25 68.0752V26.5C14.25 17.5254 21.5254 10.25 30.5 10.25H79.958Z" stroke="var(--stroke-0, black)" stroke-width="0.5"/>
+<path d="M79.958 10.25C88.9326 10.25 96.208 17.5254 96.208 26.5V68.0752C96.2079 77.0497 88.9325 84.3252 79.958 84.3252H30.5C21.5255 84.3252 14.2501 77.0497 14.25 68.0752V26.5C14.25 17.5254 21.5254 10.25 30.5 10.25H79.958Z" stroke="url(#paint0_linear_0_174)" stroke-width="0.5"/>
+<path id="Vector" d="M32.8992 57.3831C31.2427 57.314 29.8918 56.8605 28.8368 56.0223C28.6396 55.8646 28.1564 55.3814 27.9888 55.1744C27.5648 54.632 27.269 54.1094 27.0718 53.5277C26.4703 51.7331 26.7859 49.3864 27.9494 46.803C28.9551 44.5943 30.5032 42.4054 33.195 39.3684C33.5894 38.9247 34.7726 37.6133 34.7825 37.6133C34.7825 37.6133 34.7233 37.7217 34.6445 37.8598C33.9444 39.0332 33.3429 40.4234 33.0175 41.6165C32.4949 43.5393 32.5541 45.1859 33.2049 46.4678C33.6486 47.3453 34.4177 48.1144 35.2755 48.5384C36.7841 49.2779 38.9928 49.3371 41.6847 48.7159C41.872 48.6765 51.0716 46.2311 62.1249 43.2928C73.1783 40.3544 82.2299 37.9485 82.2299 37.9485C82.2299 37.9485 56.544 48.9427 43.2031 54.6419C41.0931 55.549 40.531 55.7758 39.5351 56.1209C37.0011 57.0084 34.7233 57.4422 32.8893 57.3633L32.8992 57.3831Z" fill="var(--fill-0, black)"/>
+</g>
+<defs>
+<filter id="filter0_d_0_174" x="0" y="0" width="110.458" height="102.575" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_174"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_174" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_174" x1="14.293" y1="47.2875" x2="96.1566" y2="47.2875" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4DAEFF"/>
+<stop offset="0.15" stop-color="#6C9EFF"/>
+<stop offset="0.24" stop-color="#7B98FF"/>
+<stop offset="0.47" stop-color="#CBA0F6"/>
+<stop offset="0.64" stop-color="#E9A8B1"/>
+<stop offset="0.81" stop-color="#F8AC8E"/>
+<stop offset="0.97" stop-color="#FBB647"/>
+</linearGradient>
+</defs>
+</svg>
